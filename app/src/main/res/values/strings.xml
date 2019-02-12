@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AxityExamen</string>
+    <string name="skuDisplayNameText">skuDisplayNameText</string>
+    <string name="department">department</string>
+    <string name="skuId">skuId</string>
+    <string name="basePrice">basePrice</string>
+    <string name="Nombre_de_producto">Nombre del producto:</string>
+    <string name="Departamento_al_que_pertenece">Departamento al que pertenece:</string>
+    <string name="Código_del_producto">Código del producto:</string>
+    <string name="Precio">Precio:</string>
+    <string name="obtener">Obtner datos</string>
+</resources>
